@@ -76,7 +76,7 @@ This project demonstrates practical applications of facial recognition, includin
 
 You can find detailed insights and results in the project report:
 
-[📄 Read the Full Report](docs/report.pdf)
+[📄 Read the Full Report](Docs/Report.pdf)
 
 ---
 
